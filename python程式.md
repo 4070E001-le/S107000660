@@ -22,3 +22,4 @@
 - print("你總共猜了%d" %i + "次",end = '')
 - print(",快和你朋友較量一下...")
 -
+![image](https://user-images.githubusercontent.com/43431948/141067109-24f815b5-eb4d-406e-af6e-894468effeae.png)
