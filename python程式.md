@@ -1,6 +1,7 @@
-###猜數字程式碼
+2021/9/29 https://www.youtube.com/watch?v=YTzYouYr67Q
+
 -import random
-rang1 = int(input("請設定本局遊戲的最小值:"))
+-rang1 = int(input("請設定本局遊戲的最小值:"))
 rang2 = int(input("請設定本局遊戲的最大值:"))
 num = random.randint(rang1,rang2)
 guess = "guess"
